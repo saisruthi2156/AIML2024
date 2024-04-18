@@ -5,3 +5,4 @@ week 2 :-https://colab.research.google.com/drive/1Oym5En5DBBucx2tA2s_ljswOdOUaaS
 week 4:-https://colab.research.google.com/drive/1YTtpjaZYy588RtTM3IevprVH3eqsI9Ym?usp=sharing
 aiml linear reggresion week 4 :https://colab.research.google.com/drive/1SYFrLsr2_aEWeIanNVrCWtdjbhj02vE7?usp=sharing
 week 6 :-https://colab.research.google.com/drive/1iitsBBw4mBzRp0tBKZUxLut-nvMamQyi?usp=sharing
+week 8:-https://colab.research.google.com/drive/1F9Sjyj09Wt_OHaExHqYyH-2LmzgGKyOa?usp=sharing
